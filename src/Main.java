@@ -3,5 +3,9 @@
 public class Main {
     public static void main(String[] args) {
 
+        Class_Persona Persona = new Class_Persona("pere", 25);
+
+        Persona.saludar();
+
     }
 }
